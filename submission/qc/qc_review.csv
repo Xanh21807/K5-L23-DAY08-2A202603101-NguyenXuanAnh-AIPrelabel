@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,NguyenXuanAnh,Đủ đối tượng xích lô và người đi bộ nhãn chuẩn
+img_006.jpg,,khong,NguyenXuanAnh,Các phương tiện và người đi bộ gán đúng
+img_013.jpg,,khong,NguyenXuanAnh,Tuk-tuk đã được sửa thành three_wheeler nhãn chuẩn
+img_014.jpg,,khong,NguyenXuanAnh,Xe máy và người đi bộ gán đúng
+img_022.jpg,,khong,NguyenXuanAnh,Ô tô và xe máy nhận diện rõ ràng không lỗi
+img_033.jpg,455,sai_vi_tri_kich_thuoc,NguyenXuanAnh,Box xe máy ở xa cao 18.6px nhỏ hơn ngưỡng 20px nên thuộc ignore_region

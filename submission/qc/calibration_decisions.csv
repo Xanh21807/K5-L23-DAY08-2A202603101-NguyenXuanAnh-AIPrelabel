@@ -1,1 +1,5 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_004|img_013,loi_may,"YOLO26 nhận nhầm tuk-tuk và ba gác thành car hoặc truck","Luôn gán three_wheeler cho xe ba bánh bất kể có mui che hay động cơ","Mục 2: Phương tiện 3 bánh (tuk-tuk ba gác xích lô) quy về three_wheeler không gán car hay truck",v1.1
+CAL-02,img_003|img_024,cau_hoi_mo,"Xe đạp điện và xe máy điện nhỏ gán vào bicycle hay motorbike?","Xe có động cơ điện phân vào motorbike; chỉ gán bicycle cho xe đạp thuần cơ học","Mục 6.1: Phương tiện 2 bánh có động cơ điện xếp vào motorbike",v1.1
+CAL-03,img_005|img_018,cau_hoi_mo,"Cụm xe máy đỗ dày đặc chồng lấn ở cự ly gần và trung","Các xe bị che khuất > 80% hoặc không thể tách ranh giới rõ ràng gom vào ignore_region","Mục 4.1.6: Cụm xe máy đỗ ken dày không tách được biên dùng ignore_region",v1.1
+CAL-04,img_027|img_033,bay_lot,"Bẫy máy lọt missing ở góc ảnh và loose box quá rộng","Siết chặt checklist bước 0: ẩn layer nhãn máy quét ảnh trước khi kiểm tra","Quy trình: Bắt buộc quét ảnh độc lập không có nhãn máy trước để triệt tiêu thiên kiến",v1.1
