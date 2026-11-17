@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: Xanh21807
 - Repo bài nộp (URL): https://github.com/Xanh21807/K5-L23-DAY08-2A202603101-NguyenXuanAnh-AIPrelabel
-- Commit chốt bài (hash): d3f4723
+- Commit chốt bài (hash): d417dc2
 - Máy: Windows 11, GPU CUDA (NVIDIA GeForce GTX 1650)
 - CVAT (Docker): v2.81.0
 
