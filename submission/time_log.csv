@@ -1,2 +1,3 @@
 step,images,minutes,note
-gold_manual,4,30,2026-11-17 18:01-18:31; learner reported actual time
+gold_manual,4,30,2026-11-17 18:01-18:31; gán tay 4 ảnh gold không dùng AI
+batch_review,24,72,2026-11-17 19:35-20:47; review 24 ảnh batch có bẫy (3 phút/ảnh)
